@@ -12,19 +12,19 @@ const eventsData: Event[] = [
   {
     title: "E-Summit",
     description:
-      "Annually, Team E-Cell MANIT sets the stage on fire with E-Summit, its flagship event, a blazing beacon for enthusiastic students and entrepreneurs.",
+      "Annually, Team E-Cell NITR sets the stage on fire with E-Summit, its flagship event, a blazing beacon for enthusiastic students and entrepreneurs.",
     image: "/images/event2.jpg",
   },
   {
     title: "E-Carnival",
     description:
-      "Annually, Team E-Cell MANIT sets the stage on fire with E-Summit, its flagship event, a blazing beacon for enthusiastic students and entrepreneurs.",
+      "Annually, Team E-Cell NITR sets the stage on fire with E-Summit, its flagship event, a blazing beacon for enthusiastic students and entrepreneurs.",
     image: "/images/event2.jpg",
   },
   {
     title: "Pe-Charcha",
     description:
-      "Annually, Team E-Cell MANIT sets the stage on fire with E-Summit, its flagship event, a blazing beacon for enthusiastic students and entrepreneurs.",
+      "Annually, Team E-Cell NITR sets the stage on fire with E-Summit, its flagship event, a blazing beacon for enthusiastic students and entrepreneurs.",
     image: "/images/event3.jpg",
   },
  

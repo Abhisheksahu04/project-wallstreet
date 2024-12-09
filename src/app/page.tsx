@@ -27,6 +27,7 @@ export default function Home() {
 
   return (
     <>
+      <div className="bg-black">
       <Hero/>
         <About/>
         <Event/>
@@ -34,6 +35,7 @@ export default function Home() {
         <Sponsors/>
         <Team/>
         <Footer/>
+      </div>
     </>
   );
 }

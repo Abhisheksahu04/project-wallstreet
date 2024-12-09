@@ -102,7 +102,7 @@ function Footer() {
       </div>
       </div>
       {/* Footer Text */}
-      <div className="bg-black h-6 w-full text-center flex items-center justify-center">
+      <div className="bg-black h-6 w-full text-center text-white flex items-center justify-center">
         Made with 🩵 by WEBWIZ
       </div>
     </>
